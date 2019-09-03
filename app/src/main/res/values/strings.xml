@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MoviesFeed-ExerciseMVP</string>
+    <string name="placeholder_itemlist_title">Nada es privado</string>
+    <string name="placeholder_itemlist_country">Estados Unidos</string>
 </resources>
